@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Bus Artery Owner</string>
+    <string name="passwordHint">Password</string>
+    <string name="usernameHint">Username</string>
+    <string name="title_activity_main2">Maps</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="button_log_in">Login</string>
+    <string name="addBus">Add Bus</string>
+    <string name="addDriver">Add Driver</string>
+    <string name="buslinerOwner">Bus Liner Owner</string>
+    <string name="selectBusnum">Select Bus Number</string>
+
+    <string-array name="route_name">
+        <item>Cebu-Bato via Barili</item>
+        <item>Cebu-Bato via Oslob</item>
+        <item>Cebu-Moalboal</item>
+        <item>Cebu-Alcoy</item>
+        <item>Cebu-Dalaguete</item>
+        <item>Cebu-Barili</item>
+        <item>Cebu-Argao</item>
+        <item>Cebu-Carcar</item>
+    </string-array>
+
+    <string-array name="bus_type">
+        <item>Aircon</item>
+        <item>Ordinary</item>
+    </string-array>
+    <string name="title_activity_maps_fragment">Map</string>
+    <string name="driverHistory">Driver History</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="write">Write ID</string>
+    <string name="balanceChecker">Check Balance</string>
+    <string name="NameHint">Name</string>
+    <string name="emailHint">Email</string>
+    <string name="button_sign_up">Sign Up</string>
+    <string name="button_register">Register</string>
+
+    <string-array name="load_amount">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+    </string-array>
+
+    <string-array name="history_choose">
+        <item>All</item>
+        <item>Bus number</item>
+        <item>Name of Driver</item>
+        <item>Date</item>
+    </string-array>
+
+    <!--<string name="intro_message">This is a simple app to read various tags (NDEF, RFID, FeliCa, ISO 14443, etc).\n\nYou use it by holding a tag/card against the back of your device.\n\nPlease let me know if you want me to change how the data is displayed. Also send me an e-mail (adam@anyro.se) if you have any problems with the app and I\'ll let you know when I\'ve fixed it. You can also see the source code and report issues at https://github.com/nadam/nfc-reader.\n\nIf you can\'t read any tag, please try some of the other NFC apps on Google Play and let me know if this app is the only one not working. Thanks!\n\n/Adam</string>-->
+    <!--<string name="error">Error</string>-->
+    <!--<string name="no_nfc">No NFC found on this device</string>-->
+    <!--<string name="nfc_disabled">NFC is not enabled. Please go to the wireless settings to enable it.</string>-->
+    <!--<string name="menu_main_clear_title">Clear all</string>-->
+</resources>

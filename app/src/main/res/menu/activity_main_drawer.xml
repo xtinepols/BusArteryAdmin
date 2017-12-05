@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bus_list"
+            android:icon="@drawable/listbus_icon"
+            android:title="Bus List" />
+        <!--<item-->
+            <!--android:id="@+id/driver_list"-->
+            <!--android:icon="@drawable/listdriver_icon"-->
+            <!--android:title="Drivers List" />-->
+        <item
+            android:id="@+id/trackBus"
+            android:icon="@drawable/gmap_icon"
+            android:title="Track Bus" />
+        <item
+            android:id="@+id/history"
+            android:icon="@drawable/history_logo"
+            android:title="History" />
+        <item
+            android:id="@+id/loader"
+            android:icon="@drawable/loader_icon"
+            android:title="Loader" />
+        <item
+            android:id="@+id/balance_checker"
+            android:icon="@drawable/checker_icon"
+            android:title="Balance Checker" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout_logo"
+            android:title="Logout"/>
+    </group>
+</menu>
